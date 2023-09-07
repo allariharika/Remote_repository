@@ -1,3 +1,2 @@
 # Remote_repository
-
-#caulator
+Simple Calculator - A 2D calculator to perform basic operations.
